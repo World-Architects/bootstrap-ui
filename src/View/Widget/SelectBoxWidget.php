@@ -1,5 +1,5 @@
 <?php
-namespace BootstrapUI\View\Widget;
+namespace Bootstrap4UI\View\Widget;
 
 use BootstrapUI\View\Widget\InputgroupTrait;
 use Cake\View\Form\ContextInterface;

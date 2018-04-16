@@ -1,6 +1,6 @@
 <?php
 
-namespace BootstrapUI\Shell\Task;
+namespace Bootstrap4UI\Shell\Task;
 
 use Cake\Console\Shell;
 use Cake\Core\Configure;
