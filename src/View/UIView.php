@@ -1,6 +1,6 @@
 <?php
 
-namespace BootstrapUI\View;
+namespace Bootstrap4UI\View;
 
 use Cake\View\View;
 

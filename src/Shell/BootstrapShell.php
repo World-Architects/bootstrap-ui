@@ -1,6 +1,6 @@
 <?php
 
-namespace BootstrapUI\Shell;
+namespace Bootstrap4UI\Shell;
 
 use Cake\Console\Shell;
 use Cake\Filesystem\File;

@@ -1,6 +1,6 @@
 <?php
 
-namespace BootstrapUI\View;
+namespace Bootstrap4UI\View;
 
 /**
  * UIViewTrait: Trait that loads the custom UIBootstrap helpers and sets View

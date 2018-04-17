@@ -1,5 +1,5 @@
 {
-    "name": "friendsofcake/bootstrap-ui",
+    "name": "friendsofcake/bootstrap4-ui",
     "description": "Twitter Bootstrap 4 support for CakePHP 3",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "twitter", "bootstrap"],
@@ -29,7 +29,7 @@
     },
     "autoload": {
         "psr-4": {
-            "BootstrapUI\\": "src"
+            "Bootstrap4UI\\": "src"
         }
     },
     "autoload-dev": {

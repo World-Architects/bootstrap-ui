@@ -1,5 +1,5 @@
 {
-    "name": "bootstrap-ui",
+    "name": "bootstrap4-ui",
     "version": "1.2.1",
     "description": "Twitter Bootstrap 4 support for CakePHP 3",
     "main": "index.js",
